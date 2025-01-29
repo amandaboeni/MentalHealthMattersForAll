@@ -1,0 +1,83 @@
+body, html {
+  height: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+body {
+  overflow-x: hidden;
+  background: linear-gradient(to bottom, #cbbca5 0%,#e5d2bc 50%,#ffe6e3 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height:100%;
+  color: black;
+  font-family: Verdana;
+  padding:2vw;
+}
+p {
+  font-family: "Papyrus", "Courier New", monospace;
+  font-size: 20px;
+}
+.aboutme{
+  font-family: "Times New Roman";
+  font-size:18px;
+  margin-left: 20%;
+}
+ul {
+  list-style-type: none;
+  max-width: 50%;
+  margin: 0 auto;
+  padding: 0;
+  /*background-color: #f1f1f1;*/
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 0px;
+  text-decoration: none;
+}
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+  background-color: #f1f1f1;
+}
+.containerservice{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  text-align:center;
+}
+li.ex{
+  margin-top:.5vh;
+}
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  color:black;
+}
+.responsive {
+  height: auto;
+  max-width:100%;
+  width: 300px;
+}
+.peaceful{
+  height: auto;
+  max-width: 75%;
+}
+.buffer{
+  border: 5px solid red;
+  margin-left:10vw;
+}
