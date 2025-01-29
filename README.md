@@ -1,5 +1,5 @@
 # MentalHealthMattersForAll
-Professional website created for mental health professional.
+Website created for mental health professional on Neocities.
 
-Backlog of code created for the website. Updated often, created on Neocities. All code displayed here is from scratch. If used, please reference my Github!
+Backlog of code created for the website. All code displayed here is from scratch. If used, please reference my Github!
 WEBSITE: https://mentalhealthmattersforall.com/
